@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace snake
+namespace Snake
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace snake
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
-            Console.ReadLine();
         }
+
     }
 }
